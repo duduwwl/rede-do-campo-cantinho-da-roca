@@ -15,7 +15,7 @@
 }
 @media(max-width:640px){
   .hero{height:440px;height:clamp(390px,62svh,480px);min-height:0;align-items:flex-start}
-  .hero .hero-landscape{object-position:70% center}
+  .hero .hero-landscape{object-position:84% center}
   .hero::before{background:linear-gradient(180deg,rgba(4,31,21,.72) 0%,rgba(4,31,21,.36) 42%,rgba(4,31,21,.04) 75%,rgba(4,31,21,.2) 100%)}
   .hero .hero-grid{width:calc(100% - 40px);margin:0 auto;padding:46px 0 0}
   .hero .hero-copy{width:100%;padding:0;max-width:none}
